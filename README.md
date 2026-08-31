@@ -1,2 +1,2 @@
-## Haiii! :octocat:
+## Haiii!
 I make C++ and Python projects sometimes
